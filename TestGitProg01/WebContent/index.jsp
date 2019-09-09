@@ -9,7 +9,7 @@
 <body>
 	<ul>
 		<li>Git첫번째항목</li>
-		<li></li>
+		<li>두번째항목추가</li>
 		<li></li>
 	</ul>
 </body>
