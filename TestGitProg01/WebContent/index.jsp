@@ -1,5 +1,5 @@
 <%@ page language="java" contentType="text/html; charset=EUC-KR"
-    pageEncoding="EUC-KR"%>
+    pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
 <head>
@@ -8,8 +8,8 @@
 </head>
 <body>
 	<ul>
-		<li>Gitù��°�׸�</li>
-		<li>�ι�°�׸��߰�</li>
+		<li>Git첫번째항목</li>
+		<li>두번째항목추가</li>
 		<li></li>
 	</ul>
 </body>
